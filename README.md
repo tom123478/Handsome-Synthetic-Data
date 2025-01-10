@@ -8,8 +8,8 @@ Your support motivates us to keep improving and sharing! 🚀🎉
 
 ## 🌟 Table of Contents
 - [Introduction](#introduction)
-- [Contributing](#contributing)
 - [Table of Papers](#table-of-papers)
+- [Contributing](#contributing)
 
 ## Introduction
 
@@ -17,10 +17,10 @@ Synthetic data is becoming increasingly important for machine learning and data-
 
 ## Table of Papers
 
-| Paper | Application areas | Synthetic Method | Quick Overview |
-|:-----------:|:------:|:----------------------:|:-----------:|
-| [MOTSynth](https://openaccess.thecvf.com/content/ICCV2021/papers/Fabbri_MOTSynth_How_Can_Synthetic_Data_Help_Pedestrian_Detection_and_Tracking_ICCV_2021_paper.pdf) | Pedestrian | GTA-V（3D Game Engine） |  |
-| [Another Paper Title](https://example.com) | NLP | Data Augmentation |  |
+| Paper | Application areas | Synthetic Method | Quick Overview | Time |
+|:-----------:|:------:|:----------------------:|:-----------:|:-----------:|
+| [MOTSynth](https://openaccess.thecvf.com/content/ICCV2021/papers/Fabbri_MOTSynth_How_Can_Synthetic_Data_Help_Pedestrian_Detection_and_Tracking_ICCV_2021_paper.pdf) | Pedestrian | GTA-V（3D Game Engine） | [MOTSynth_read](https://zhuanlan.zhihu.com/p/17584983808) | 2024 |
+| [Another Paper Title](https://example.com) | NLP | Data Augmentation |  |  |
 
 Let us know if you have ideas to make this repository more useful!
 
