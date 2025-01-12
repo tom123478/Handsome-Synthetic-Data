@@ -17,13 +17,13 @@ Synthetic data is becoming increasingly important for machine learning and data-
 
 ## Table of Papers
 
-| Paper | Application areas | Synthetic Method | Quick Overview | Time |
-|:-----------:|:------:|:----------------------:|:-----------:|:-----------:|
-| [MOTSynth](https://openaccess.thecvf.com/content/ICCV2021/papers/Fabbri_MOTSynth_How_Can_Synthetic_Data_Help_Pedestrian_Detection_and_Tracking_ICCV_2021_paper.pdf) | Pedestrian | GTA-V（3D Game Engine） | [MOTSynth_read](https://zhuanlan.zhihu.com/p/17584983808) | 2024 |
-| [Another Paper Title](https://example.com) | NLP | Data Augmentation |  |  |
+| Paper | Application areas | Synthetic Method | Quick Overview | Time | code |
+|:-----------:|:------:|:----------------------:|:-----------:|:-----------:|:-----------:|
+| [MOTSynth](https://openaccess.thecvf.com/content/ICCV2021/papers/Fabbri_MOTSynth_How_Can_Synthetic_Data_Help_Pedestrian_Detection_and_Tracking_ICCV_2021_paper.pdf) | Pedestrian | GTA-V（3D Game Engine） | [MOTSynth_read](https://zhuanlan.zhihu.com/p/17584983808) | 2024 | - |
+| [Fake it till you make it](https://microsoft.github.io/FaceSynthetics) | face analysis | VFX | [Fake it till you make it](https://zhuanlan.zhihu.com/p/17853708379) | 2024 | [Fake it till you make it](https://microsoft.github.io/FaceSynthetics) |
 
 Let us know if you have ideas to make this repository more useful!
-
+[Contributing](#contributing)
 ## Contributing
 
 🧑‍💻[Tom123478](https://github.com/tom123478)
